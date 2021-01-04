@@ -8,5 +8,5 @@ efforts. One of the obstacles to developing such a system has been the lack of a
 and ground-truthed search and rescue (SAR) dataset. I used a new dataset for airborne SAR
 collected in 2014 by the National Research Council Flight Research Laboratory (NRC-FRL)
 and labeled approximately 40,000 frames, to extract roughly 20,000 negative and 20,000 positive
-images. Then I tested three ATD methods on this dataset in order to develop more advanced
+images. Then I tested three ATD methods including Matched Filters, Histogram of Oriented Gradients, and Faster R-CNN on this dataset in order to develop more advanced
 assisted target detection algorithms for thermal infrared (IR) images.
